@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Need Help in calendar Weve got your back</name>
+   <tag></tag>
+   <elementGuidId>0a0a850d-8f3a-4ef8-a9d4-1760ed8a1138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4b0bc850-5d84-4a23-9e86-818729f2983d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Need Help in calendar? We've got your back</value>
+      <webElementGuid>37419692-ead2-4830-b935-22de1ed0d7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;body-side--container inner-wrapper&quot;]/div[@class=&quot;mt-2&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-md-7&quot;]/h3[1]</value>
+      <webElementGuid>d3c61f0c-f2b7-4916-832c-0dbd368a1906</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>6d7f814a-b302-4ceb-b7aa-5d969743d93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8a820b3e-fcdb-49f0-a2bb-e549d88e0b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = concat(&quot;Need Help in calendar? We&quot; , &quot;'&quot; , &quot;ve got your back&quot;) or . = concat(&quot;Need Help in calendar? We&quot; , &quot;'&quot; , &quot;ve got your back&quot;))]</value>
+      <webElementGuid>98ee5885-4e46-460c-a368-599f3c99db03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
